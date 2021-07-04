@@ -1,0 +1,22 @@
+.lt{
+    margin-left: 15px;
+}
+.email{
+    margin-top: 15px;
+}
+.name{
+    margin-top: 15px;
+}
+.Your{
+    margin-top: 15px;
+}
+.checked{
+    color: orange;
+}
+.required{
+    color: red;
+}
+.but{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
